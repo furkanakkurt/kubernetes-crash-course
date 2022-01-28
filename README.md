@@ -1,20 +1,6 @@
 # Kubernetes Crash Course for Java Developers on Google Cloud
 
-[![Image](https://www.springboottutorial.com/images/Course-KubernetesCrashCourse.png "Kubernetes Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/kubernetes-crash-course-for-java-developers/)
-
-
-## Learn Kubernetes and Docker with Google Kubernetes Engine deploying Spring Boot Microservices
-
-Learn Kubernetes? Yes.   Learn Docker, Istio and Helm? Yes.
-Deploy Spring Boot and Spring Cloud Microservices to Kubernetes? Yes. Of Course.
-
-Do you have ZERO experience with Docker and Kubernetes? No Problem.
-
-Do you want to learn Kubernetes and deploy Spring Boot Microservices to Kubernetes with an easy to learn, step by step approach?
-
-Do you want to join 300,000+ learners having Amazing Learning Experiences with in28Minutes?
-
-Look No Further!
+<!-- [![Image](https://www.springboottutorial.com/images/Course-KubernetesCrashCourse.png "Kubernetes Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/kubernetes-crash-course-for-java-developers/) -->
 
 ## First Commands
 
